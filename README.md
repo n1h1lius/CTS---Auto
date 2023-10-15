@@ -1,6 +1,10 @@
 # CTS---Auto
 This is a simple autoclicker for Cell to Singularity game. It is intended to be as fast as possible for the game not to crash, with a simple HUD and settings.
 
+# RELEASES
+
+· Version 1.0 -> https://github.com/n1h1lius/CTS---Auto/releases/tag/CTS-Auto
+
 
 # README
 
