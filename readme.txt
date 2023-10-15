@@ -7,7 +7,7 @@
 
         VERSION: 1.0
         CODED BY: N1h1lius
-        GITHUB:
+        GITHUB: https://github.com/n1h1lius/CTS---Auto
 
  · HOW TO START
 
