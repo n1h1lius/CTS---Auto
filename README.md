@@ -22,9 +22,7 @@ This is a simple autoclicker for Cell to Singularity game. It is intended to be 
         autoclicker stopped.
 
 
-===========================================================
-                           NOTES
-===========================================================
+# NOTES
 
     Take into account that this is an autoclicker, so
     despite you'll still be able to use the mouse inside
@@ -38,9 +36,7 @@ This is a simple autoclicker for Cell to Singularity game. It is intended to be 
     your mouse nor keyboard.
 
 
-===========================================================
-                         SETTINGS
-===========================================================
+# SETTINGS
 
  · DELAY
 
@@ -58,4 +54,4 @@ This is a simple autoclicker for Cell to Singularity game. It is intended to be 
         window, for it is what's needed to start the
         autoclicker.
 
-===========================================================
+
